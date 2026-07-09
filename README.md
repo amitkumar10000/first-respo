@@ -1,2 +1,4 @@
 # first-respo
-this is my first git respo
+this is my first git respository.
+<br>
+author-amitkumar
